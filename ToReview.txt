@@ -1,0 +1,14 @@
+1 - Enterprise on ramp
+2 - Trusted advisor
+3 - AWS managed key
+4 - Partial 3 year
+5 - Separação de dados
+7 - Config
+15 - glue
+38 - SDK
+40 - agility
+53 - Paas
+56 - Optimizer
+58 - VPC
+63 - Dynamo
+64 - gaetway
