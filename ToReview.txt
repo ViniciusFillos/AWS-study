@@ -1,14 +1,40 @@
-1 - Enterprise on ramp
-2 - Trusted advisor
-3 - AWS managed key
-4 - Partial 3 year
-5 - Separação de dados
-7 - Config
-15 - glue
-38 - SDK
-40 - agility
-53 - Paas
-56 - Optimizer
-58 - VPC
-63 - Dynamo
-64 - gaetway
+Aws S3
+Aws EC2
+Aws IAM
+Aws Accounts Types
+Aws Support plans
+Aws Organizations
+Aws Autoscaling
+Aws LoadBalancer
+Aws Security Groups
+Aws ACL
+Aws Polices
+Aws Roles
+Aws Snow Family
+Aws CloudFront
+Aws CloudWatch
+Aws CloudFormation
+Aws EFS
+Aws EBS
+Aws FSx
+Aws Key Management Secret(KMS)
+Aws Trusted Advisor
+Aws Shield
+Aws Well Architected Framework(WAF)
+Aws Beanstalk
+Aws SQS
+Aws SNS
+Aws Route 53
+Aws Lightsail
+Aws Config
+Aws SDK
+Aws Gateway 
+Aws VPC
+Aws CAF
+Aws Glue
+Aws Aurora
+Aws Neptune
+Aws Redshift
+Aws RDS
+Aws DynamoDB
+
