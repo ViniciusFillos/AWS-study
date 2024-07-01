@@ -1,3 +1,4 @@
+Tabelas AWS Shared Responsabilities and AWS Support plans
 Aws S3
 Aws EC2
 Aws IAM
@@ -37,4 +38,10 @@ Aws Neptune
 Aws Redshift
 Aws RDS
 Aws DynamoDB
+Aws Health
+Aws Lambda
+Aws Rekognition
+Aws Inspector
+
+
 
