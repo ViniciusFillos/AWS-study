@@ -1,21 +1,22 @@
 *Tables Aws shared Responsabilities and AWS Support plans
 --------------------------REVIEW--------------------------
-Aws Health
-Aws Lambda
-Aws Inspector
-Aws QuickSight
-Aws CloudTrail
-Aws Macie
-Aws Gateway 
-Aws Config
-Aws SDK
-Aws Beanstalk
-Aws Trusted Advisor
-Aws CloudFormation
-Aws Key Management Secret(KMS)
-Aws Shield
-Aws CloudWatch
--------------------------COMPLETE------------------------
+
+-------------------------COMPLETE-----------------------
+--- Health
+--- QuickSight
+--- Gateway 
+--- Beanstalk
+--- Key Management Secret(KMS)
+--- Macie
+--- CloudWatch
+--- Shield
+--- CloudFormation
+--- Trusted Advisor
+--- Config
+--- SDK
+--- Lambda
+--- Inspector
+--- CloudTrail
 --- S3
 --- EC2
 --- IAM
