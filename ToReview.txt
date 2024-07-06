@@ -1,47 +1,49 @@
-Tables shared Responsabilities and AWS Support plans
+*Tables Aws shared Responsabilities and AWS Support plans
+--------------------------REVIEW--------------------------
+Aws Health
+Aws Lambda
+Aws Inspector
+Aws QuickSight
+Aws CloudTrail
+Aws Macie
+Aws Gateway 
+Aws Config
+Aws SDK
+Aws Beanstalk
+Aws Trusted Advisor
+Aws CloudFormation
+Aws Key Management Secret(KMS)
+Aws Shield
+Aws CloudWatch
+-------------------------COMPLETE------------------------
 --- S3
 --- EC2
 --- IAM
 --- Accounts Types
 --- Support plans
-Aws Organizations
+--- Aws Organizations
 --- Autoscaling
 --- LoadBalancer
 --- Security Groups
 --- ACL
-Aws Polices
-Aws Roles
+--- Aws Polices
+--- Aws Roles
 --- Snow Family
 --- CloudFront
-Aws CloudWatch
-Aws CloudFormation
 --- EFS
 --- EBS
 --- FSx
-Aws Key Management Secret(KMS)
-Aws Trusted Advisor
-Aws Shield
-Aws Well Architected Framework(WAF)
-Aws Beanstalk
-Aws SQS
-Aws SNS
+--- Aws Well Architected Framework(WAF)
+--- Aws SQS
+--- Aws SNS
 --- Route 53
-Aws Lightsail
-Aws Config
-Aws SDK
-Aws Gateway 
+--- Aws Lightsail
 --- VPC
-Aws CAF
+--- Aws Cloud Adoption Framework(CAF)
 --- Glue
 --- Aurora
 --- Neptune
-Aws Redshift
 --- RDS
 --- DynamoDB
-Aws Health
-Aws Lambda
-Aws Rekognition
-Aws Inspector
-
-
-
+--- Aws Rekognition
+--- Aws Redshift
