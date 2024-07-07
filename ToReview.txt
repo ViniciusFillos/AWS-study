@@ -1,50 +1,59 @@
 *Tables Aws shared Responsabilities and AWS Support plans
 --------------------------REVIEW--------------------------
-
--------------------------COMPLETE-----------------------
---- Health
---- QuickSight
---- Gateway 
 --- Beanstalk
 --- Key Management Secret(KMS)
---- Macie
+--- Health
 --- CloudWatch
+--- Config
+--- CodeDeploy
+--- CodeCommit
+--- AppSync
+--- Application Migration Service
+--- Artifact
+--- Timestream
+--- GuardDuty
+--- CloudTrail
+--- Pricing Calculator
+--- Budgets
+--- Cost Explorer
+--- Organizations
+-------------------------COMPLETE-----------------------
+--- QuickSight
+--- Storage Gateway 
+--- Macie
 --- Shield
 --- CloudFormation
 --- Trusted Advisor
---- Config
 --- SDK
 --- Lambda
 --- Inspector
---- CloudTrail
 --- S3
 --- EC2
 --- IAM
 --- Accounts Types
 --- Support plans
---- Aws Organizations
 --- Autoscaling
 --- LoadBalancer
 --- Security Groups
 --- ACL
---- Aws Polices
---- Aws Roles
+--- Polices
+--- Roles
 --- Snow Family
 --- CloudFront
 --- EFS
 --- EBS
 --- FSx
---- Aws Well Architected Framework(WAF)
---- Aws SQS
---- Aws SNS
+--- Well Architected Framework(WAF)
+--- SQS
+--- SNS
 --- Route 53
---- Aws Lightsail
+--- Lightsail
 --- VPC
---- Aws Cloud Adoption Framework(CAF)
+--- Cloud Adoption Framework(CAF)
 --- Glue
 --- Aurora
 --- Neptune
 --- RDS
 --- DynamoDB
---- Aws Rekognition
---- Aws Redshift
+--- Rekognition
+--- Redshift
