@@ -5,8 +5,10 @@
 --- Health
 --- CloudWatch
 --- Config
+--- CodeBuild
 --- CodeDeploy
 --- CodeCommit
+--- CodePipeline
 --- AppSync
 --- Application Migration Service
 --- Artifact
@@ -17,6 +19,10 @@
 --- Budgets
 --- Cost Explorer
 --- Organizations
+--- U2F security key
+--- Desaster recovery strategy
+--- OpsWork
+--- AppFlow
 -------------------------COMPLETE-----------------------
 --- QuickSight
 --- Storage Gateway 
